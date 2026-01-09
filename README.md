@@ -50,13 +50,6 @@ ayout=compact&theme=github_dark&hide_border=true" height="160"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
 </p>
 
----
-
-## 🎧 Coding Vibes (Spotify)
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
-</p>
 
 ---
 
@@ -74,15 +67,16 @@ ayout=compact&theme=github_dark&hide_border=true" height="160"/>
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdhande20&theme=github-dark&hide_border=true"/>
 </p>
+
 
 ---
 
 ## 🧊 3D Contribution Calendar
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/profile-3d-contrib/profile-night-green.svg" />
+  <img src="https://raw.githubusercontent.com/gauravdhande20/gauravdhande20/main/profile-3d-contrib/profile-night-green.svg" />
 </p>
 
 ---
