@@ -73,7 +73,7 @@ ayout=compact&theme=github_dark&hide_border=true" height="160"/>
 
 ---
 
-## 🧊 3D Contribution Calendar
+## 🧊 Contribution Calendar
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gauravdhande20/gauravdhande20/main/profile-3d-contrib/profile-night-green.svg" />
